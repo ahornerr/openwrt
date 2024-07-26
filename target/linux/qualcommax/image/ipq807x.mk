@@ -169,7 +169,7 @@ define Device/linksys_mx
 endef
 
 define Device/linksys_mx4200v1
-	$(call Device/linksys_mx)
+	$(call Device/linksys_mx
 	DEVICE_MODEL := MX4200
 	DEVICE_VARIANT := v1
 	SOC := ipq8174
