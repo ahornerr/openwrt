@@ -31,6 +31,7 @@ edimax,cax1800)
 	;;
 linksys,mx4200v1|\
 linksys,mx4200v2|\
+linksys,mx4300|\
 linksys,mx5300|\
 linksys,mx8500)
 	idx="$(find_mtd_index u_env)"
